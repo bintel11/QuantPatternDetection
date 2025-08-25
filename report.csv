@@ -1,0 +1,61 @@
+symbol,cup_start,cup_end,handle_start,handle_end,cup_depth,cup_duration,handle_depth,handle_duration,breakout,valid,invalid_reason,r2,ml_valid,confidence,png_file,html_file
+BTCUSDT,0,30,31,41,249.99266154862562,31,205.38277083174762,11,42,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_0.png,patterns\cup_handle_0.html
+BTCUSDT,1,31,32,42,249.99266154862562,31,247.93878360859526,11,43,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_1.png,patterns\cup_handle_1.html
+BTCUSDT,2,32,33,43,249.99266154862562,31,244.66576597675885,11,44,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_2.png,patterns\cup_handle_2.html
+BTCUSDT,3,33,34,44,237.12615723216004,31,231.79926166029327,11,45,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_3.png,patterns\cup_handle_3.html
+BTCUSDT,4,34,35,45,207.54275851204875,31,185.62381696833472,11,46,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_4.png,patterns\cup_handle_4.html
+BTCUSDT,5,35,36,46,207.54275851204875,31,194.71650806668913,11,47,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_5.png,patterns\cup_handle_5.html
+BTCUSDT,6,36,37,47,196.18165927068185,31,173.5208073643662,11,48,False,Handle retrace too deep,,False,0.98,patterns\cup_handle_6.png,patterns\cup_handle_6.html
+BTCUSDT,7,37,38,48,173.41334737507714,31,150.26135397606413,11,49,False,Handle retrace too deep,,False,0.98,patterns\cup_handle_7.png,patterns\cup_handle_7.html
+BTCUSDT,8,38,39,49,161.66408001328819,31,128.52993392715143,11,50,False,Handle retrace too deep,,False,0.98,patterns\cup_handle_8.png,patterns\cup_handle_8.html
+BTCUSDT,9,39,40,50,146.93627026640024,31,109.47003410150501,11,51,False,Handle retrace too deep,,False,0.98,patterns\cup_handle_9.png,patterns\cup_handle_9.html
+BTCUSDT,10,40,41,51,137.7988707909317,31,92.6819107049887,11,52,False,Handle retrace too deep,,False,0.965,patterns\cup_handle_10.png,patterns\cup_handle_10.html
+BTCUSDT,11,41,42,52,125.04133842918236,31,72.81248012369178,11,53,False,Handle retrace too deep,,False,0.99,patterns\cup_handle_11.png,patterns\cup_handle_11.html
+BTCUSDT,12,42,43,53,113.57665147737862,31,52.923057107269415,11,54,False,Handle retrace too deep,,False,1.0,patterns\cup_handle_12.png,patterns\cup_handle_12.html
+BTCUSDT,13,43,44,54,103.11553768881276,31,33.69912395182473,11,55,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_13.png,patterns\cup_handle_13.html
+BTCUSDT,14,44,45,55,89.48979003441491,31,9.410356430875254,11,56,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_14.png,patterns\cup_handle_14.html
+BTCUSDT,15,45,46,56,92.76768841429293,31,1.263548880655435,11,57,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_15.png,patterns\cup_handle_15.html
+BTCUSDT,16,46,47,57,96.30205164547078,31,-9.324369451125676,11,58,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_16.png,patterns\cup_handle_16.html
+BTCUSDT,17,47,48,58,110.79626052956155,31,-3.390947881700413,11,59,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_17.png,patterns\cup_handle_17.html
+BTCUSDT,18,48,49,59,122.32402993577853,31,-5.402204840553168,11,60,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_18.png,patterns\cup_handle_18.html
+BTCUSDT,19,49,50,60,140.37249916903966,31,-0.22826466478727525,11,61,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_19.png,patterns\cup_handle_19.html
+BTCUSDT,20,50,51,61,149.05482930827566,31,-5.035272788838483,11,62,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_20.png,patterns\cup_handle_20.html
+BTCUSDT,21,51,52,62,163.12217784209497,31,0.017293677185080014,11,63,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_21.png,patterns\cup_handle_21.html
+BTCUSDT,22,52,53,63,177.83623841677036,31,26.430510617799882,11,64,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_22.png,patterns\cup_handle_22.html
+BTCUSDT,23,53,54,64,195.11175578933762,31,45.532849976050784,11,65,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_23.png,patterns\cup_handle_23.html
+BTCUSDT,24,54,55,65,206.52477539757092,31,66.34406259536627,11,66,False,Breakout too low,1.0,False,0.985,patterns\cup_handle_24.png,patterns\cup_handle_24.html
+BTCUSDT,25,55,56,66,213.96227498102962,31,73.78156217882497,11,67,False,Breakout too low,0.9984603978430502,False,0.985,patterns\cup_handle_25.png,patterns\cup_handle_25.html
+BTCUSDT,26,56,57,67,213.96227498102962,31,74.76566192739119,11,68,False,Breakout too low,0.9925200702002047,False,0.985,patterns\cup_handle_26.png,patterns\cup_handle_26.html
+BTCUSDT,27,57,58,68,213.96227498102962,31,68.799726311845,11,69,False,Breakout too low,0.9824689497390886,False,0.98,patterns\cup_handle_27.png,patterns\cup_handle_27.html
+BTCUSDT,28,58,59,69,213.26047605973872,31,78.21183568565903,11,70,True,,0.9696525667932503,True,0.64,patterns\cup_handle_28.png,patterns\cup_handle_28.html
+BTCUSDT,29,59,60,70,213.26047605973872,31,67.29972851483035,11,71,False,Breakout too low,0.9556373961080652,True,0.655,patterns\cup_handle_29.png,patterns\cup_handle_29.html
+ETHUSDT,0,30,31,41,253.12003570489242,31,177.68782753985306,11,42,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_30.png,patterns\cup_handle_30.html
+ETHUSDT,1,31,32,42,253.12003570489242,31,227.60761394784686,11,43,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_31.png,patterns\cup_handle_31.html
+ETHUSDT,2,32,33,43,253.12003570489242,31,245.9701317009908,11,44,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_32.png,patterns\cup_handle_32.html
+ETHUSDT,3,33,34,44,242.57497067413487,31,219.5586974158823,11,45,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_33.png,patterns\cup_handle_33.html
+ETHUSDT,4,34,35,45,242.57497067413487,31,231.3131072337428,11,46,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_34.png,patterns\cup_handle_34.html
+ETHUSDT,5,35,36,46,209.07386320168098,31,188.11396350235282,11,47,False,Handle retrace too deep,,False,0.975,patterns\cup_handle_35.png,patterns\cup_handle_35.html
+ETHUSDT,6,36,37,47,196.44358256357282,31,172.7050535048129,11,48,False,Handle retrace too deep,,False,0.98,patterns\cup_handle_36.png,patterns\cup_handle_36.html
+ETHUSDT,7,37,38,48,178.50282003524444,31,154.52295096167245,11,49,False,Handle retrace too deep,,False,0.98,patterns\cup_handle_37.png,patterns\cup_handle_37.html
+ETHUSDT,8,38,39,49,164.12660684033654,31,130.11647803854612,11,50,False,Handle retrace too deep,,False,0.98,patterns\cup_handle_38.png,patterns\cup_handle_38.html
+ETHUSDT,9,39,40,50,152.08575427261485,31,112.79112268392237,11,51,False,Handle retrace too deep,,False,0.98,patterns\cup_handle_39.png,patterns\cup_handle_39.html
+ETHUSDT,10,40,41,51,139.47330235409436,31,94.14426290506435,11,52,False,Handle retrace too deep,,False,0.97,patterns\cup_handle_40.png,patterns\cup_handle_40.html
+ETHUSDT,11,41,42,52,125.77245582499836,31,68.47160128189535,11,53,False,Handle retrace too deep,,False,0.985,patterns\cup_handle_41.png,patterns\cup_handle_41.html
+ETHUSDT,12,42,43,53,114.03274903937108,31,50.33877434337455,11,54,False,Handle retrace too deep,,False,1.0,patterns\cup_handle_42.png,patterns\cup_handle_42.html
+ETHUSDT,13,43,44,54,104.19442511691659,31,29.964580659732746,11,55,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_43.png,patterns\cup_handle_43.html
+ETHUSDT,14,44,45,55,89.62061533049837,31,10.892922863054537,11,56,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_44.png,patterns\cup_handle_44.html
+ETHUSDT,15,45,46,56,91.21230272536195,31,-4.829247989502164,11,57,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_45.png,patterns\cup_handle_45.html
+ETHUSDT,16,46,47,57,99.59473946362914,31,-4.230568247071005,11,58,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_46.png,patterns\cup_handle_46.html
+ETHUSDT,17,47,48,58,114.18808521900792,31,-5.393567235307273,11,59,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_47.png,patterns\cup_handle_47.html
+ETHUSDT,18,48,49,59,126.90639881690322,31,-4.947477884350064,11,60,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_48.png,patterns\cup_handle_48.html
+ETHUSDT,19,49,50,60,138.6422118748951,31,-5.046486906634982,11,61,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_49.png,patterns\cup_handle_49.html
+ETHUSDT,20,50,51,61,149.92333590670387,31,-10.208744152376767,11,62,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_50.png,patterns\cup_handle_50.html
+ETHUSDT,21,51,52,62,166.01826978913095,31,2.805955725521926,11,63,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_51.png,patterns\cup_handle_51.html
+ETHUSDT,22,52,53,63,181.20817405690013,31,23.548383841004124,11,64,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_52.png,patterns\cup_handle_52.html
+ETHUSDT,23,53,54,64,191.95085702491497,31,40.615133218751,11,65,False,Breakout too low,1.0,False,1.0,patterns\cup_handle_53.png,patterns\cup_handle_53.html
+ETHUSDT,24,54,55,65,214.7105302150053,31,66.42953960528348,11,66,False,Breakout too low,1.0,False,0.99,patterns\cup_handle_54.png,patterns\cup_handle_54.html
+ETHUSDT,25,55,56,66,214.7105302150053,31,66.59514687065393,11,67,False,Breakout too low,0.9984603978430509,False,0.95,patterns\cup_handle_55.png,patterns\cup_handle_55.html
+ETHUSDT,26,56,57,67,214.7105302150053,31,65.21386002153213,11,68,False,Breakout too low,0.9925200702002042,False,0.995,patterns\cup_handle_56.png,patterns\cup_handle_56.html
+ETHUSDT,27,57,58,68,214.7105302150053,31,68.6684186455077,11,69,False,Breakout too low,0.982468949739089,False,0.96,patterns\cup_handle_57.png,patterns\cup_handle_57.html
+ETHUSDT,28,58,59,69,214.7105302150053,31,67.94748051284387,11,70,False,Breakout too low,0.9696525667932497,False,0.525,patterns\cup_handle_58.png,patterns\cup_handle_58.html
+ETHUSDT,29,59,60,70,214.7105302150053,31,66.61052704807116,11,71,True,,0.955637396108066,True,0.75,patterns\cup_handle_59.png,patterns\cup_handle_59.html
