@@ -1,0 +1,11 @@
+ccxt==4.5.1
+imblearn==0.0
+joblib==1.5.1
+matplotlib==3.10.5
+numpy==2.3.2
+pandas==2.3.2
+plotly==6.3.0
+pytest==8.4.1
+pytest.egg==info
+scikit_learn==1.7.1
+TA_Lib==0.4.32
